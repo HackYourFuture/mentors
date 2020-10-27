@@ -25,9 +25,9 @@ Next to that we have channels for every class and the main goal here is that we 
 ## What we expect from you
  (renw this part with the new values) 
 
-**Encourage pro-activity.**
+**Encourage pro-activity.** \\
 As a volunteer you are a role model. We can only ask pro-activity from our students if we embody it ourselves. 
-**Positivity.** 
+**Positivity.**  \\
 We aspire to be a community with a positive mindset. This is why we find it important to highlight the things that are going well, and not only focus on what is going wrong. We try to implement this on all levels of our organization (from giving feedback on homework to how you engage with the students).
 
 We hope that by reading this you have a better idea of what it means to volunteer at Hack Your Future. If you have any questions, you can always send us an email at tjebbe@hackyourfuture.net or (once you have been added to our Slack channels) send us a Slack message.
