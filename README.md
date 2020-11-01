@@ -1,7 +1,7 @@
 | Role              | Topic                                 |
 | ------            | --------------------------------------                     |
 | Homework support  |                                            |
-| (Online) teacher) |                                           |
+| (Online) teacher  |                                           |
 | Personal mentor   |                                             |
 | Ambassador        |                                                  |
 
