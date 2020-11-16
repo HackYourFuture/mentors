@@ -1,6 +1,7 @@
 | Role              | Topic                                 |
 | ------            | --------------------------------------                     |
-| Homework support  |                                            |
+| Homework support  | 
+As a homework assistant you will check and provide feedback on the homework of the students and optionally revise their tests. Feedback should be provided within a week after homework has been submitted.                                           |
 | (Online) teacher  |                                           |
 | Personal mentor   |                                             |
 | Ambassador        |                                                  |
