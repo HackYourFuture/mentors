@@ -1,10 +1,3 @@
-| Role              | Topic                                 |
-| ------            | --------------------------------------                     |
-| Homework support  | 
-As a homework assistant you will check and provide feedback on the homework of the students and optionally revise their tests. Feedback should be provided within a week after homework has been submitted.                                           |
-| (Online) teacher  |                                           |
-| Personal mentor   |                                             |
-| Ambassador        |                                                  |
 
 
 # Introduction for new volunteers
@@ -18,6 +11,14 @@ To facilitate the learning process, volunteers - together with HYF staff - have 
 Every two months a new class of +/- 15 students starts the course. This means that we have 4 classes (+/- 60 students) in different stages of the curriculum at any given point. HackYourFuture is mostly self study and you can find the structure for our students [here](https://docs.google.com/document/d/1JUaEbxMQTyljAPFsWIbbLwwvvIXZ0VCHmCCN8RaeVIc/edit?usp=sharing). On Sunday (12:00 to 14:00) we host online Q&A sessions about the homework and the concepts of that week for every class. 
 As a volunteer you’ll help out per module. All modules (except React) are three weeks long. So, as a volunteer you commit for three weeks to HYF. It’s up to you how often you want to help out in a module. 
 We need at least three mentors for every module. Check the table at the top for an overview and explanation of the different volunteering roles.  
+
+## Roles
+| Role              | Topic                                 |
+| ------            | --------------------------------------|
+| Homework support  | As a homework assistant you will check and provide feedback on the homework of the students and optionally revise their tests. Feedback should be provided within a week after homework has been submitted.|
+| (Online) teacher  |                                       |
+| Personal mentor   |                                       |
+| Ambassador        |                                       |
 
 ## Communication
 Most of our communication is done via Slack. This is the place where we ask you if you can help out in a certain module and where you can keep in touch with both students and other mentors.
