@@ -11,7 +11,7 @@ This step is the most time consuming. After having made an indication of the dif
 
 In HYF we use ‘the four E’s’ as a framework to help the student understand a concept. Those E’s are: Explanation, Example, Exercise and Essence. We provide them for every (large) concept in the lesson plans (you can find them in our curriculum). We think they represent the most important parts of understanding a certain topic. Feel free to use this format as much as you like.
 
-    **Explanation** 
+   **Explanation** 
 - To start with you can write down all difficult subjects and go through them one by one.
 - You can use the readings that are provided every week for the student. By going through the reading together you know how the concept is explained and the student sees it one more time. Ask frequently if they still get everything and (let them) summarise the content in easy English. The reason for this: “If you can’t explain it simply, you don’t understand it well enough.” -Albert Einstein.
 - After running through the readings you can think of another way to explain the concept. Maybe a (different) metaphor will help the student understand it better. Or you know a good explanation from youtube that you can recommend. Ask (again) if the student can explain the subject themselves. 
