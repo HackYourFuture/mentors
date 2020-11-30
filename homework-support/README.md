@@ -7,6 +7,8 @@ In this document a framework is given that can help you review homework of stude
 As you know, volunteering at HYF is module based. If you’re going to help out in a module as homework support you’ll review around 4 or 5 homework submissions per week as long as that module lasts (normally 3 weeks). This will take +/- 4 hours per week. Once you’ve helped out multiple times in the same module, it will  take less time of course.
 
 # Homeworkflow 
+The Thursday before the start of every module, Tjebbe will host a call at 20:00 to introduce all the mentors that are involved to eachother and to discuss the details of this module. You'll get a googl calendar invite for this meeting.
+
 In the first module (HTML/CSS) students will hand in their homework via Trello. Starting from Javascript 1, week 1, students need to hand in their homework via [GitHub](https://github.com/HackYourHomework). In both cases they've to do this every week before the deadline on Tuesday at 23:59.
 
 The code of the students has to be reviewed within a week after the deadline (every Tuesday) so the students can improve their work as soon as possible.
