@@ -1,0 +1,3 @@
+# introduction
+Based on the reading material and the HYF video's, students have to submit at least one question for the Q&A session. They will hand it in on slack in a thread on their class channel. Answering those questions will be the main goal of the session on Sunday.  
+Every Monday at 18:00 till 18:30 an evaluation session about yesterday's class is hosted. Tjebbe will invite you via a google calendar invite for this meeting. Everybody shares in +/- 5 minutes their experiences and afterwards we can discuss different aspects of online teaching or get an update of the current situation of HYF. 
