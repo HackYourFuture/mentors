@@ -78,3 +78,5 @@ When you finished your review, it’s recommended to write a small summary at th
 - Give a compliment to the student
 - Let them know if they need to make changes 
 - Reflect upon the topics for that week  and if you think (s)he understands them. 
+
+Thanks Jim Cramer for helping out with this document.
