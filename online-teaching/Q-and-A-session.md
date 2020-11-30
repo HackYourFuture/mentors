@@ -1,15 +1,11 @@
-
-Based on the lecture, students have to submit at least one question for the Q&A session. They will hand it in on slack in a thread on their class channel. Answering those questions will be the main goal of the session on Sunday.  
-Every Monday at 18:00 till 18:30 an evaluation session about yesterday's class is hosted. Tjebbe will invite you via a google calendar invite for this meeting. Everybody shares in +/- 5 minutes their experiences and afterwards we can discuss different aspects of online teaching or get an update of the current situation of HYF. 
-
-## Preparing
-Watch/screen the pre-recorded lecture.
-Gather all the questions from the students that they submitted in the class channel on slack. Divide the questions per topic, so you can cover them per subject.
+## Preparation
+1. Watch/screen the pre-recorded lecture.
+2. Gather all the questions from the students that they submitted in the class channel on slack. Divide the questions per topic, so you can cover them per subject.
 Optional: Prepare a live coding exercise/example (see the paragraph about ‘Student Participation’ for more info)
-Open a [Jitsi meeting](https://meet.jit.si/) (and make sure your dropbox is empty)
-Start the Jitsi recording. 
-Share the link to the meeting in the class channel on Slack
-Make sure students have muted their mic and switched on their video. When somebody has a question, they can use the chat-function or ‘raise a hand’ function. To increase interactivity, students could also ask their questions by unmuting their mic. Of course only if their internet speed allows it 
+3. Open a [Jitsi meeting](https://meet.jit.si/) (and make sure your dropbox is empty)
+4. Start the Jitsi recording. 
+5. Share the link to the meeting in the class channel on Slack
+6. Make sure students have muted their mic and switched on their video. When somebody has a question, they can use the chat-function or ‘raise a hand’ function. 7. To increase interactivity, students could also ask their questions by unmuting their mic. Of course only if their internet speed allows it 
 Make sure all students put their real name as their account name.
 
 ## During the session
