@@ -1,10 +1,15 @@
 
 
 # Introduction for new mentors
+
+![mentor](assets/mentor.jpg)
+
 Welcome to Hack Your Future. We really appreciate that you're interested in being part of our community. In this RePo we want to give you an overview of the different volunteer positions available. By volunteering you contribute to our main goal: help students gain the necessary skills to find a job as a programmer. Hack Your Future has now helped over 130 students find work as a programmer. This is only possible with the support of you: our volunteers.
 If you have
 
 ## Curriculum
+![theprogram](assets/program.jpg)
+
 To facilitate the learning process, volunteers - together with HYF staff - have developed a curriculum, which you can find [here](www.github.com/hackyourfuture). The complete 7-month program is divided into different modules, each building on the one before. We encourage you to have a look at the curriculum and think about which modules connect most to your professional experience. Another useful resource is the [Student Manual](https://docs.google.com/document/d/1YzPC7m9vOCb0h4EFCqLChw1L096XcbJv3dK3k7VooQM/edit?usp=sharing) which we give to students on their introduction day. It provides an overview of our program and might answer some of the questions you still have after reading this sheet. 
 
 ## Structure
@@ -26,12 +31,10 @@ Most of our communication is done via Slack. This is the place where we ask you 
 Next to that we have channels for every class and the main goal here is that we support students with questions/their homework during the week. If you are not in Slack yet, ask Tjebbe :information_desk_person:
 
 ## What we expect from you
- (renw this part with the new values) 
+![values](assets/posters.jpg)
 
-**Encourage pro-activity.** \\
-As a volunteer you are a role model. We can only ask pro-activity from our students if we embody it ourselves. 
-**Positivity.**  \\
-We aspire to be a community with a positive mindset. This is why we find it important to highlight the things that are going well, and not only focus on what is going wrong. We try to implement this on all levels of our organization (from giving feedback on homework to how you engage with the students).
+(renw this part with the new values) 
+
 
 We hope that by reading this you have a better idea of what it means to volunteer at Hack Your Future. If you have any questions, you can always send us an email at tjebbe@hackyourfuture.net or (once you have been added to our Slack channels) send us a Slack message.
 
