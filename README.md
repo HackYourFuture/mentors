@@ -23,8 +23,8 @@ We need at least three mentors for every module. Check the table at the top for 
 | [Homework support](https://github.com/HackYourFuture/mentors/tree/main/homework-support)  | As a homework assistant you will check and provide feedback on the homework of the students and optionally revise their tests. Feedback should be provided within a week after homework has been submitted.| 6 hours. Flexible |
 | [(Online) teacher](https://github.com/HackYourFuture/mentors/tree/main/online-teaching)  |    During the week you will help provide feedback on the homework. On Sunday you will host a Q&A session for the class that’s following the module you teach. To become a teacher you must first have experience as Homework Support. Afterwards you’ll help out a more experienced teacher for a module so you learn how to lead a session.  | 3 hours Sunday, 2 hours preparation, 2 hours homework support|
 | [Personal mentor](https://github.com/HackYourFuture/mentors/tree/main/coding-mentor)   |   Some of our students need additional support throughout the course to be ready for their first job. This is exactly what you will do as a mentor. We ask you to organize at least one, but preferably two video calls a week of at least an hour when assigned to a student. |4 hours. Flexible |
-| [Fellowship](https://github.com/HackYourFuture/Fellowship)        |                                       | 4 hours. Flexible |
-| [Post Graduation Package](https://github.com/HackYourFuture/post-grad-ed/blob/master/mentoringpgp.md) |              | 3 hours. Flexible |
+| [Post Graduation Package](https://github.com/HackYourFuture/post-grad-ed/blob/master/mentoringpgp.md)        |  As a mentor you will work closely with two gradautes who are preparing for their first internship. You will support them in a 4 to 8 week during program.           | 3 hours. Flexible |
+| [Fellowship](https://github.com/HackYourFuture/Fellowship) |  Like the Post Graduation Package, th Fellowship is an extracurricular project. On [this](https://www.hackyourfuture.net/fellowship/) website you can find all the info you need.            | 3 hours. Flexible |
 
 ## Communication
 Most of our communication is done via Slack. This is the place where we ask you if you can help out in a certain module and where you can keep in touch with both students and other mentors.
@@ -33,9 +33,14 @@ Next to that we have channels for every class and the main goal here is that we 
 ## What we expect from you
 ![values](assets/posters.jpg)
 
-(renw this part with the new values) 
+For an overview and explanation of our core-values, check out [this](https://github.com/HackYourFuture/values) RePo. 
 
+For you, the mentors, it's important to know that you're a role-model for our students. They can learn by example to:
+* stick to deadlines
+* Communicate proffesionally and on time
+* Be pro-active 
 
+## Conclusion
 We hope that by reading this you have a better idea of what it means to volunteer at Hack Your Future. If you have any questions, you can always send us an email at tjebbe@hackyourfuture.net or (once you have been added to our Slack channels) send us a Slack message.
 
 Looking forward to working with you!
