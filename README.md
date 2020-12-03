@@ -13,12 +13,13 @@ As a volunteer you’ll help out per module. All modules (except React) are thre
 We need at least three mentors for every module. Check the table at the top for an overview and explanation of the different volunteering roles.  
 
 ## Roles
-| Role              | Topic                                 |
-| ------            | --------------------------------------|
-| Homework support  | As a homework assistant you will check and provide feedback on the homework of the students and optionally revise their tests. Feedback should be provided within a week after homework has been submitted.|
-| (Online) teacher  |                                       |
-| Personal mentor   |                                       |
-| Ambassador        |                                       |
+| Role              | Topic                                 | Time estimation per week |
+| ------            | --------------------------------------| --------------- |
+| [Homework support](https://github.com/HackYourFuture/mentors/tree/main/homework-support)  | As a homework assistant you will check and provide feedback on the homework of the students and optionally revise their tests. Feedback should be provided within a week after homework has been submitted.| 6 hours. Flexible |
+| [(Online) teacher](https://github.com/HackYourFuture/mentors/tree/main/online-teaching)  |    During the week you will help provide feedback on the homework. On Sunday you will host a Q&A session for the class that’s following the module you teach. To become a teacher you must first have experience as Homework Support. Afterwards you’ll help out a more experienced teacher for a module so you learn how to lead a session.  | 4 hours Sunday, ~2 hours preparation + ~2 hours homework support|
+| [Personal mentor](https://github.com/HackYourFuture/mentors/tree/main/coding-mentor)   |   Some of our students need additional support throughout the course to be ready for their first job. This is exactly what you will do as a mentor. We ask you to organize at least one, but preferably two video calls a week of at least an hour when assigned to a student. |4 hours. Flexible |
+| [Fellowship](https://github.com/HackYourFuture/Fellowship)        |                                       | 4 hours. Flexible |
+| [Post Graduation Package](https://github.com/HackYourFuture/post-grad-ed/blob/master/mentoringpgp.md) |              | 3 hours. Flexible |
 
 ## Communication
 Most of our communication is done via Slack. This is the place where we ask you if you can help out in a certain module and where you can keep in touch with both students and other mentors.
