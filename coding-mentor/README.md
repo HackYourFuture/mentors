@@ -1,4 +1,4 @@
-# introduction
+# Introduction
 Some students need additional support throughout the course as the speed of our program is a challenge for them. That’s exactly what you will give them as a coding mentor. You will do that by making +/- two video calls during the week.  
 In this document a structure will be given to help you give the right support. 
 
