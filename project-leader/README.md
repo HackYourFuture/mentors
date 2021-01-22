@@ -13,7 +13,7 @@ To be a project leader here requires the following:
 - Be available for technical issues during the week. They should be encouraged to ask for help during the project from their group and you as tech lead
 - This will be their first time working in a group so expect to answer questions about git issues / branches / merging / code reviews.
 
-## Using API's
+## Using API's individual project
 In the [Using API's module](https://github.com/HackYourFuture/Using-APIs) the final test is an individual project. This is the time we check that the student is proficient enough in JavaScript to start learning the more advanced modules. Each student has a week to build a project on their own that adheres to some requirements (see module repo for details).
 
 The role of the project leader here is to be available for questions for a couple of students in the class. It is important to walk the fine line of providing support without writing their project for them. 
