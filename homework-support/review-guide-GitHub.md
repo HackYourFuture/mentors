@@ -1,5 +1,54 @@
 # Homework Review Process
 
+From Class 31 there is a new review process set up to make the students and your lives a little easier. If you are reviewing a class with a number lower then 31, please look at the PRE-CLASS-31 section.
+
+## Before you start
+1. Every class has their own class repository that is private. Please send your github username to Tjebbe or Rob on Slack, then they will add you to the class repository.
+2. Optionally use the VSCode **GitHub Pull Request** extension to streamline the review workflow. With this extension you can quickly check out pull requests without having to individually clone and `npm install` each student's repository.
+
+## Review process
+1. At the end of the week all the students will have created an issue in the class repository with the right milestone (the module) and the right label (the week). On the README there are quick links to these filters.
+2. In the issue there will be a link to the forked homework repository of that student. When picking up a students homework, assign yourself to the issue, remove the `Needs review` label and add the `Review in progress` label
+3. You can add all the comments on the pull request in the student's github.
+4. Once done, remove the `Review in progress` label. You make the call if the student has done the homework correctly or needs to fix some issues. If the student needs to fix something, add the `Reviewed with feedback` label. If the homework is good, add the `Approved` label.
+5. If the student needs to change things, they will do it in their pull request and once done will change the label in the issue to `Needs review` again. Go back to step 3 until the student has fixed everything and gets the `Approved` label.
+
+By following this workflow it will be easier for everyone to see if the student needs to fix something or if the mentor needs to check something.
+
+## Homework repository
+From Class 31 all of the homework is now in one central repository [here](https://github.com/HackYourFuture/Homework). This repository has unit tests for each and every exercise that can be run. Have a look at the `Information for mentors` section to see how it works and what it can be used for.
+
+The goal of the test runner is to give students quicker feedback on their homework and allow mentors to focus more on the code style, rather than checking if the code does what it should. There are log files though that will show test history, this can be helpful to see what the student was having trouble with.
+
+If you find an exercise where you see students making the same mistakes that can be caught in a unit test, then please help yourself and the students out by writing one. The students would be helped by getting feedback faster, and the mentors don't have to write the same thing everytime. You can always send a PR to the Homework repository!
+
+## Best practices 
+There are five points of which we think are essential for good feedback in HackYourFuture.
+
+### 1. Positivity
+It can happen easily that feedback only points out the mistakes. But it’s very important to give  positive feedback as well. Commenting on aspects that you liked about the code is crucial to make the student more confident. We’re also learning from what we did well.
+
+### 2. Specific
+Try to make your feedback as specific as possible, so the student knows which part of the code needs improvement.
+
+### 3. Suggestions
+Good feedback contains suggestions for improvement. In this way the student will have an idea on how to improve the code. You push him/her in the right direction. Keep in mind that there is a balance between suggestions and self study. Giving away the solution is not always the best thing to do. 
+
+### 4. Balance in amount of feedback
+Too little comments and a student doesn’t have enough feedback to learn from, too much feedback and the student is overwhelmed by all the information. 
+As a rule of thumb we say that a normal review is somewhere between the 10 and 15 comments. 
+When you have the feeling that a student needs more guidance, feel free to contact him or her on Slack to plan an online call!
+
+### 5. Summary at the beginning
+When you finished your review, it’s recommended to write a small summary at the top where you: 
+- Give a compliment to the student
+- Let them know if they need to make changes 
+- Reflect upon the topics for that week and if you think (s)he understands them. 
+
+A huge thanks to Jim Cramer for helping out with this document and the Homework repository.
+
+# PRE-CLASS-31
+
 ## Before you start
 1. [This](https://github.com/HackYourHomework) is the github account where our students submit their homework. Please send your username to Tjebbe on Slack, then he will add you to the organization. 
 2. Optionally use the VSCode **GitHub Pull Request** extension to streamline the review workflow. With this extension you can quickly check out pull requests without having to individually clone and `npm install` each student's repository.

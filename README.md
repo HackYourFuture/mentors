@@ -8,7 +8,7 @@ Welcome to Hack Your Future. We really appreciate that you're interested in bein
 If you have
 
 ## Curriculum
-![theprogram](assets/program.jpg)
+![theprogram](assets/program.png)
 
 To facilitate the learning process, volunteers - together with HYF staff - have developed a curriculum, which you can find [here](www.github.com/hackyourfuture). The complete 7-month program is divided into different modules, each building on the one before. We encourage you to have a look at the curriculum and think about which modules connect most to your professional experience. Another useful resource is the [Student Manual](https://docs.google.com/document/d/1YzPC7m9vOCb0h4EFCqLChw1L096XcbJv3dK3k7VooQM/edit?usp=sharing) which we give to students on their introduction day. It provides an overview of our program and might answer some of the questions you still have after reading this sheet. 
 
