@@ -5,7 +5,6 @@
 ![mentor](assets/mentor.jpg)
 
 Welcome to Hack Your Future. We really appreciate that you're interested in being part of our community. In this RePo we want to give you an overview of the different volunteer positions available. By volunteering you contribute to our main goal: help students gain the necessary skills to find a job as a programmer. Hack Your Future has now helped over 130 students find work as a programmer. This is only possible with the support of you: our volunteers.
-If you have
 
 ## Curriculum
 ![theprogram](assets/program.png)
