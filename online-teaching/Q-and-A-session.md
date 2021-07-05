@@ -25,10 +25,12 @@ Make sure all students put their real name as their account name.
 10. Share the recordings in the class channel.  
 
 ### How to respond on questions
-As you know, the students have to hand in at least one question. The quality of those questions differ a lot. Here are a few tips on dealing with 
-Let the student explain his/her question and why they have it before starting with the answer. This allows you to get a better insight in what question (s)he has.
-If the question is not related to this week's topics or one of the topics from earlier in the course, save that question for last or solely tell that it’s a good question, but that they don’t have to know the answer for now. It can be quite intimidating for students that are struggling more with the core concepts and it is important to focus on the material of our curriculum and not mix up weeks. If one student is ahead of the rest you can help him/her after the call and optionally give some exercises. 
-It can happen that a student submitted an easy and googleable question. You’re not there to answer those question, but on the other hand you don’t want to create an atmosphere where students are afraid to ask dumb questions. In a situation like this you can ask the student how (s)he would solve it himself/herself. As a joke you can use [this](https://lmgtfy.app/) site (LetMeGoogleThatForYou). 
+As you know, the students have to hand in at least one question. The quality of those questions differ a lot. Here are a few tips on dealing with the questions:
+- Let the student explain his/her question and why they have it before starting with the answer. This allows you to get a better insight in what question (s)he has.
+- If the question is not related to this week's topics or one of the topics from earlier in the course, save that question for last or solely tell that it’s a good question, but that they don’t have to know the answer for now. It can be quite intimidating for students that are struggling more with the core concepts and it is important to focus on the material of our curriculum and not mix up weeks. If one student is ahead of the rest you can help him/her after the call and optionally give some exercises. 
+- It can happen that a student submitted an easy and googleable question. You’re not there to answer those question, but on the other hand you don’t want to create an atmosphere where students are afraid to ask dumb questions. In a situation like this you can ask the student how (s)he would solve it himself/herself. As a joke you can use [this](https://lmgtfy.app/) site (LetMeGoogleThatForYou). 
+- Let other students try to answer the questions. If you first ask if somebody had the same question and not eveyone responds with yes, there must be somebody that could help you out.  
+- Ask if the question is answered before you move to the next one and give a small summary of the lessons learned. 
 
 
 ### Creating student engagement
