@@ -5,7 +5,8 @@ Optional: Prepare a live coding exercise/example (see the paragraph about ‘Stu
 3. Open a [Jitsi meeting](https://meet.jit.si/) (and make sure your dropbox is empty)
 4. Start the Jitsi recording. 
 5. Share the link to the meeting in the class channel on Slack
-6. Make sure students have muted their mic and switched on their video. When somebody has a question, they can use the chat-function or ‘raise a hand’ function. 7. To increase interactivity, students could also ask their questions by unmuting their mic. Of course only if their internet speed allows it 
+6. Make sure students have muted their mic and switched on their video. When somebody has a question, they can use the chat-function or ‘raise a hand’ function. 
+7. To increase interactivity, students could also ask their questions by unmuting their mic. Of course only if their internet speed allows it 
 Make sure all students put their real name as their account name.
 
 ## During the session
