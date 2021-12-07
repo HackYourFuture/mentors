@@ -21,7 +21,9 @@ Make sure all students put their real name as their account name.
 4. As soon as you start explaining, make sure you share your screen.
 5. Ask about the homework from last week (the deadline just passed). Are there any questions?
 6. Discuss the preperation exercie. You can do this in multiple ways. 
+
 (A). Do the exercise together with the students. They tell you what you have to write. 
+
 (B). Ask a student to show his/her solution (screensharing) and discuss it in class.
 7. Go over all the questions that students have submitted per topic. 
 8. If you prepared an exercise, this is the time to do it :)
