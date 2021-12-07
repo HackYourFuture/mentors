@@ -6,15 +6,7 @@
 
 3. Click on the GitHub Pull Request icon in the VSCode task bar and expand the **All** option. As shown in the picture below, you will see a list of the most recent Pull Requests for this repository.
 
-   ![all-Prs](assets/all-PRs.png)
-
-   **Figure 1**: GitHub Pull Requests extension
-
 4. Right-click on the pull request you want to review and select the **Checkout Pull Request** menu option. This will create a local branch in the local repository, e.g. `pr/veliataseven/273` as shown in the VSCode status bar here:
-
-   ![vscode-status-bar](assets/vscode-status-bar.png)
-
-   **Figure 2**: VSCode status bar
 
 5. While the VSCode Github Pull Request extension allows local commenting on the pull request, it's recommended to do it online, directly in GitHub. To open the pull request in GitHub right-click again on the pull request in VSCode and select **Open Pull Request in GitHub**.
 
