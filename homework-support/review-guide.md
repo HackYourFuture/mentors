@@ -5,11 +5,12 @@
 2. You get assigned 3 to 5 students before the start of the module. 
 
 ## Review process
-As said before you have the freedom to decide with your students on the way of communication with them. You can do video calls, add comments to the PR or chat via slack. The best is to start a groep message on Slack and agree together on the way of feedback. Within two weeks (after the hand-in deadline) the final code needs to be approved by you. That means that you put the label 'approved' on the trello card or on the PR.
+As said before you have the freedom to decide with your students on the way of communication with them. You can do video calls, add comments to the PR or chat via slack. The best is to start a groep message on Slack and agree together on the way of feedback. Within two weeks (after the hand-in deadline) the final code needs to be approved by you. That means that you put the label 'approved' on the trello card(HTML/CSS module) or on the PR(all the other modules).
 
 ### timline feedback
 1. Tuesday (week 1) -->  deadline for the students to hand in their first version
-2. Wednesday (week 1) - Tuesday (week 3) --> Mentor / Student interaction to improve homework
+2. Wednesday (week 1) - Tuesday (week 2) --> Mentor provides students with feeback
+3. Wednesday (week 2) - Tuesday (week 3) --> Students improves homework and mentor evaluates improvements
 3. Wednesday (week 3) --> Core-team member Homework Approval Check
 
 ## Best practices 
