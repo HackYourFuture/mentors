@@ -5,13 +5,31 @@
 2. You get assigned 3 to 5 students before the start of the module. 
 
 ## Review process
-As said before you have the freedom to decide with your students on the way of communication with them. You can do video calls, add comments to the PR or chat via slack. The best is to start a groep message on Slack and agree together on the way of feedback. Within two weeks (after the hand-in deadline) the final code needs to be approved by you. That means that you put the label 'approved' on the trello card(HTML/CSS module) or on the PR(all the other modules).
+As said before you have the freedom to decide with your students on the way of communication with them. You can do video calls, place comments to the PR
+or chat via slack. 
+
+The best is to start a groep message with 'your' students on Slack and agree together on the way of feedback. 
+
+video calls
+If you choose to do video calls, there're 2 options. Individual calls or a group call. 
+If you're doing individual calls you go over the student's homework together. Make sure that the student makes notes on the comments that you have. 
+You can let him/her share his/her screen and ask to explain the code he/she wrote. At the end of the call it must be clear to the student what changes has to be made to get approval of the homework. 
+A group call requires a bit more preparation. (but you only have to do it once a week, which saves some time as well) 
+Go through all the homeworks before the call and write down the comments that you have. During the call you can address the common mistakes first, so you can refer to them once you go over every induvidual homework. 
+The advantage of this structure is that students can learn from mistakes that others made and that they can help eachother out with answers. 
+
+
+2. comments to the PR
+
+3. chat via slack. 
 
 ### timline feedback
 1. Tuesday (week 1) -->  deadline for the students to hand in their first version
 2. Wednesday (week 1) - Tuesday (week 2) --> Mentor provides students with feeback
-3. Wednesday (week 2) - Tuesday (week 3) --> Students improves homework and mentor evaluates improvements
-3. Wednesday (week 3) --> Core-team member Homework Approval Check
+3. Wednesday (week 2) - Tuesday (week 3) --> Students improve  homework and mentor evaluates improvements
+4. Wednesday (week 3) --> Core-team member Homework Approval Check
+
+### Labels 
 
 ## Best practices 
 There are five points of which we think are essential for good feedback in HackYourFuture.
