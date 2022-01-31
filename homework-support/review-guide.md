@@ -30,6 +30,7 @@ The advantage of this structure is that students can learn from mistakes that ot
 
 ### Labels 
 It is important for the core-team to have up to date info about the status of the homework. This is why we expect you to work with two labels on the PR of the student. 
+|--------------|---------------------------------------------------|
 |no label  |not reviewed yet   |
 |needs work   |reviewed, but student needs to implement feedback  |
 |approved   |reviewed, and homework has been approved   |
