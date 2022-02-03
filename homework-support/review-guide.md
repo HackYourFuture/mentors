@@ -2,10 +2,9 @@
 
 ## Before you start
 1. [This](https://github.com/HackYourHomework) is the github account where our students submit their homework. Per module a specific RePo is created where students will make a PR.  Please send your username to Tjebbe on Slack, then he will add you to the organization. 
-2. You get assigned 3 to 5 students before the start of the module. 
-3. sdgvs
-4. segvwsdv
-6. fvdrg
+2. You get assigned 3 to 5 students before the start of the module in th slack conversation with all the mentors that are involved. You will review their work for the duration of the module.
+3. Please don't hesitate to contact Tjebbe or the class mentor if you are facing any issues. We are here to help you out!  
+ 
 
 ## Review process
 As said before you have the freedom to decide with your students on the way of communication with them. You can do video calls or place comments to the PR.
@@ -41,6 +40,7 @@ It is important for the core-team to have up to date info about the status of th
 |approved   |reviewed, and homework has been approved   |
 
 
+Here is an example of
 
 ![labels](https://github.com/HackYourFuture/mentors/blob/main/assets/labels.png)
 ## Best practices 
