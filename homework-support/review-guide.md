@@ -5,12 +5,11 @@
 2. You get assigned 3 to 5 students before the start of the module. 
 
 ## Review process
-As said before you have the freedom to decide with your students on the way of communication with them. You can do video calls, place comments to the PR
-or chat via slack. 
+As said before you have the freedom to decide with your students on the way of communication with them. You can do video calls or place comments to the PR.
 
-The best is to start a groep message with 'your' students on Slack and agree together on the way of feedback. 
+The best is to start a groep message with 'your' students on Slack and agree together on the way of communication. 
 
-video calls
+#### video calls
 If you choose to do video calls, there're 2 options. Individual calls or a group call. 
 If you're doing individual calls you go over the student's homework together. Make sure that the student makes notes on the comments that you have. 
 You can let him/her share his/her screen and ask to explain the code he/she wrote. At the end of the call it must be clear to the student what changes has to be made to get approval of the homework. 
@@ -18,9 +17,9 @@ A group call requires a bit more preparation. (but you only have to do it once a
 Go through all the homeworks before the call and write down the comments that you have. During the call you can address the common mistakes first, so you can refer to them once you go over every induvidual homework. 
 The advantage of this structure is that students can learn from mistakes that others made and that they can help eachother out with answers. 
 
-2. comments to the PR
+#### comments to the PR
+[This](https://github.com/HackYourFuture/mentors/blob/main/homework-support/review-in-written.md) is a step-by-step guide, made by Jim Cramer, for a written review on a PR. You can use it as a guideline, but it's not mandatory to use it.
 
-3. chat via slack. 
 
 ### timline feedback
 1. Tuesday (week 1) -->  deadline for the students to hand in their first version
