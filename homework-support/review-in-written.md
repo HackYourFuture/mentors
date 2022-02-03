@@ -1,4 +1,4 @@
-##  Review process
+##  GitHub PR code review process
 
 
 1. Open your local (cloned) version of the module's HYF repository, say **JavaScript** in VSCode (make sure that you run `npm install` after cloning).
