@@ -35,7 +35,8 @@ It is important for the core-team to have up to date info about the status of th
 |no label  |not reviewed yet   |
 |needs work   |reviewed, but student needs to implement feedback  |
 |approved   |reviewed, and homework has been approved   |
-![labels](assets/labels.jpg)
+
+![labels](https://github.com/HackYourFuture/mentors/blob/main/assets/labels.png)
 ## Best practices 
 There are five points of which we think are essential for good feedback in HackYourFuture.
 
