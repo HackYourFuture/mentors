@@ -1,8 +1,11 @@
 # Homework Review Process
 
 ## Before you start
-1. [This](https://github.com/HackYourHomework) is the github account where our students submit their homework. Per module a specific RePo is created where lease send your username to Tjebbe on Slack, then he will add you to the organization. 
+1. [This](https://github.com/HackYourHomework) is the github account where our students submit their homework. Per module a specific RePo is created where students will make a PR.  Please send your username to Tjebbe on Slack, then he will add you to the organization. 
 2. You get assigned 3 to 5 students before the start of the module. 
+3. sdgvs
+4. segvwsdv
+6. fvdrg
 
 ## Review process
 As said before you have the freedom to decide with your students on the way of communication with them. You can do video calls or place comments to the PR.
@@ -22,9 +25,9 @@ The advantage of this structure is that students can learn from mistakes that ot
 
 
 ### timline feedback
-| Days | Task |
+| Days | Activities |
 | --- | --- |
-|Tuesday (week 1)  |deadline for the students to hand in their first version   |
+|Tuesday (week 1)  | Deadline for the students to hand in their first version   |
 |Wednesday (week 1) - Tuesday (week 2)  | Mentor provides students with feeback  |
 | Wednesday (week 2) - Tuesday (week 3)  |Students improve  homework and mentor evaluates improvements   |
 | Wednesday (week 3) | Core-team member Homework Approval Check |
@@ -36,6 +39,8 @@ It is important for the core-team to have up to date info about the status of th
 |no label  |not reviewed yet   |
 |needs work   |reviewed, but student needs to implement feedback  |
 |approved   |reviewed, and homework has been approved   |
+
+
 
 ![labels](https://github.com/HackYourFuture/mentors/blob/main/assets/labels.png)
 ## Best practices 
