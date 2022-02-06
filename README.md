@@ -14,7 +14,7 @@ To facilitate the learning process, volunteers - together with HYF staff - have 
 ## Structure
 Every two months a new class of +/- 15 students starts the course. This means that we have 4 classes (+/- 60 students) in different stages of the curriculum at any given point. HackYourFuture is mostly self study and you can find the structure for our students [here](https://docs.google.com/document/d/1JUaEbxMQTyljAPFsWIbbLwwvvIXZ0VCHmCCN8RaeVIc/edit?usp=sharing). On Sunday (12:00 to 14:00) we host online Q&A sessions about the homework and the concepts of that week for every class. 
 As a volunteer you’ll help out per module. All modules (except React) are three weeks long. So, as a volunteer you commit for three weeks to HYF. It’s up to you how often you want to help out in a module. 
-We need at least three mentors for every module. Check the table at the top for an overview and explanation of the different volunteering roles.  
+We need at least three mentors for every module. Check the table below for an overview and explanation of the different volunteering roles.  
 
 ## Roles
 | Role              | Topic                                 | Time estimation per week |
@@ -35,8 +35,8 @@ Next to that we have channels for every class and the main goal here is that we 
 
 For an overview and explanation of our core values, check out [this](https://github.com/HackYourFuture/values) RePo. 
 
-For you, the mentors, it's important to know that you're a role model for our students. They can learn by example to:
-* Stick to deadlines
+For you, the mentors, it's important to know that you're a role-model for our students. They can learn by example to:
+* stick to deadlines
 * Communicate professionally and on time
 * Be pro-active 
 
