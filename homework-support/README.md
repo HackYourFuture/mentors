@@ -12,3 +12,5 @@ The Thursday before the start of every module, Tjebbe will host a call at 20:00 
 In the first module (HTML/CSS) students will hand in their homework via Trello. Starting from Javascript, students need to hand in their homework via [GitHub](https://github.com/HackYourHomework). In both cases they've to do this every week before the deadline on Tuesday at 23:59.
 
 You'll get assigned 3 to 5 students that you will provide feedback for this module. Together with those students you can decide to do video calls, add comments to the PR or chat via slack for the review of their work. This will take +/- 4 hours per week. Once you’ve helped out multiple times in the same module, it will  take less time of course. Within two weeks (after the hand-in deadline) the final code (with feedback implemented)needs to be approved by you. If you won’t be able to make one of the deadlines, please share it as soon as possible in the module chat on Slack so Tjebbe can arrange something else. 
+
+Have a look [here](./review-guide.md) for a more detailed explanation.
