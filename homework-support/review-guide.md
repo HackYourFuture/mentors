@@ -10,23 +10,23 @@ As said before you have the freedom to decide with your students on the way of c
 
 We have found that the best approach is to start a group message with 'your' students on Slack and agree together on the way of communication. There, you can keep the whole group informed of availability and updates.
 
-### video calls
+### Video calls
 If you choose to do video calls, there're 2 options. Individual calls or a group call. 
-If you're doing individual calls you go over the student's homework together, make sure that the student understands the comments that you have! You can let them share their screen and ask to explain the code they wrote. At the end of the call it must be clear to the student what changes has to be made to get approval of the homework. 
-A group call requires a bit more preparation, but you only have to do it once a week, which saves some time as well. Go through all the homeworks before the call and write down the comments that you have. During the call you can address the common mistakes first, so you can refer to them once you go over every individual homework. 
-The advantage of this structure is that students can learn from mistakes that others made and that they can help eachother out with answers. 
 
-### comments to the PR
+If you're doing individual calls you go over the student's homework together, make sure that the student understands the comments that you have! You can let them share their screen and ask to explain the code they wrote. At the end of the call it must be clear to the student what changes has to be made to get approval of the homework. 
+
+A group call requires a bit more preparation, but you only have to do it once a week, which saves some time as well. Go through all the homeworks before the call and write down the comments that you have. During the call you can address the common mistakes first, so you can refer to them once you go over every individual homework. The advantage of this structure is that students can learn from mistakes that others made and that they can help eachother out with answers. 
+
+### Comments to the PR
 [This](https://github.com/HackYourFuture/mentors/blob/main/homework-support/review-in-written.md) is a step-by-step guide, made by Jim Cramer, for a written review on a PR. You can use it as a guideline, but it's not mandatory to use it.
 
-
-### timeline feedback
+### Timeline feedback
 | Days | Activities |
 | --- | --- |
 |Tuesday (week 1)  | Deadline for the students to hand in their first version   |
 |Wednesday (week 1) - Tuesday (week 2)  | Mentor provides students with feedback  |
 | Wednesday (week 2) - Tuesday (week 3)  | Students improve homework and mentor evaluates improvements   |
-| Wednesday (week 3) | Core-team member Homework Approval Check |
+| Wednesday (week 3) | Core-team member Homework Approval Check. At this point every PR needs to be approved. |
 
 ### Labels 
 It is important for the core-team to have up to date info about the status of the homework. This is why we expect you to work with two labels on the PR of the student.
@@ -34,8 +34,8 @@ It is important for the core-team to have up to date info about the status of th
 | Label | Description |
 | --- | --- |
 |no label  |not reviewed yet   |
-|needs work   |reviewed, but student needs to implement feedback  |
-|approved   |reviewed, and homework has been approved   |
+|Needs work   |reviewed, but student needs to implement feedback  |
+|Approved   |reviewed, and homework has been approved   |
 
 Here is an example of this in action.
 
