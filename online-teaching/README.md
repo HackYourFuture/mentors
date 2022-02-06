@@ -3,4 +3,4 @@ Based on the reading material and the [HYF video's](https://www.youtube.com/chan
 
 The Thursday before the start of every module, Tjebbe will host a call at 20:00 to introduce all the mentors that are involved to eachother and to discuss the details of this module. You'll get a google calendar invite for this meeting.
 
-Every Monday at 18:00 till 18:30 an evaluation session about yesterday's class is hosted. Tjebbe will invite you via a google calendar invite for this meeting. Everybody shares in +/- 5 minutes their experiences and afterwards we can discuss different aspects of online teaching or get an update of the current situation of HYF. 
+Every Sunday at 15:00 an evaluation session about the Q&A's is hosted. Tjebbe will invite you via a google calendar invite for this meeting. Everybody shares in +/- 5 minutes their experiences and afterwards we can discuss different aspects of online teaching or get an update of the current situation of HYF. 

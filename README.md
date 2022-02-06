@@ -4,7 +4,7 @@
 
 ![mentor](assets/mentor.jpg)
 
-Welcome to Hack Your Future. We really appreciate that you're interested in being part of our community. In this RePo we want to give you an overview of the different volunteer positions available. By volunteering you contribute to our main goal: help students gain the necessary skills to find a job as a programmer. Hack Your Future has now helped over 130 students find work as a programmer. This is only possible with the support of you: our volunteers.
+Welcome to Hack Your Future. We really appreciate that you're interested in being part of our community. In this RePo we want to give you an overview of the different volunteer positions available. By volunteering you contribute to our main goal: help students gain the necessary skills to find a job as a programmer. Hack Your Future has now helped over 200 students find work as a programmer. This is only possible with the support of you: our volunteers.
 
 ## Curriculum
 ![theprogram](assets/program.png)
@@ -23,7 +23,7 @@ We need at least three mentors for every module. Check the table below for an ov
 | [(Online) teacher](./online-teaching)   | During the week you will help provide feedback on the homework. On Sunday you will host a Q&A session for the class that’s following the module you teach. To become a teacher you must first have experience as Homework Support. Afterwards you’ll help out a more experienced teacher for a module so you learn how to lead a session.  | 3 hours Sunday, 2 hours preparation, 2 hours homework support|
 | [Personal mentor](./coding-mentor)      | Some of our students need additional support throughout the course to be ready for their first job. This is exactly what you will do as a mentor. We ask you to organize at least one, but preferably two video calls a week of at least an hour when assigned to a student. |4 hours. Flexible |
 | [Project leader](./project-leader)      | There are multiple short projects in the curriculum that require guidance. As project leader you will provide this guidance by acting like a Tech lead / Product owner / Scrum master in one | 7 hours, 1 week |
-| [Post Graduation Package](https://github.com/HackYourFuture/post-grad-ed/blob/master/mentoringpgp.md)        |  As a mentor you will work closely with two graduates who are preparing for their first internship. You will support them in 4 to 8 weeks during the program.           | 3 hours. Flexible |
+| [Post Graduation Package](https://github.com/HackYourFuture/post-grad-ed/blob/master/mentoringpgp.md)        |  As a mentor you will work closely with two graduates who are preparing for their first internship. You will support them in a 4 to 8 week program.           | 3 hours. Flexible |
 | [Fellowship](https://github.com/HackYourFuture/Fellowship) |  Like the Post Graduation Package, the Fellowship is an extracurricular project. On [this](https://www.hackyourfuture.net/fellowship/) website you can find all the info you need.            | 3 hours. Flexible |
 
 ## Communication
@@ -33,7 +33,7 @@ Next to that we have channels for every class and the main goal here is that we 
 ## What we expect from you
 ![values](assets/posters.jpg)
 
-For an overview and explanation of our core-values, check out [this](https://github.com/HackYourFuture/values) RePo. 
+For an overview and explanation of our core values, check out [this](https://github.com/HackYourFuture/values) RePo. 
 
 For you, the mentors, it's important to know that you're a role-model for our students. They can learn by example to:
 * stick to deadlines
@@ -41,7 +41,7 @@ For you, the mentors, it's important to know that you're a role-model for our st
 * Be pro-active 
 
 ## Conclusion
-We hope that by reading this you have a better idea of what it means to volunteer at Hack Your Future. If you have any questions, you can always send us an email at tjebbe@hackyourfuture.net or (once you have been added to our Slack channels) send us a Slack message.
+We hope that by reading this you have a better idea of what it means to volunteer at HackYourFuture. If you have any questions, you can always send us an email at tjebbe@hackyourfuture.net or (once you have been added to our Slack channels) send us a Slack message.
 
 Looking forward to working with you!
 
