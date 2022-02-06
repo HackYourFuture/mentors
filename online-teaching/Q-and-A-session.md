@@ -1,11 +1,12 @@
 ## Preparation
 1. Watch/screen the pre-recorded lecture.
 2. Gather all the questions from the students that they submitted in the class channel on slack. Divide the questions per topic, so you can cover them per subject.
-Optional: Prepare a live coding exercise/example (see the paragraph about ‘Student Participation’ for more info)
+Take a look at the preperation exercise in the homework for that week. All students tried to solve the exercise before the start of the class. During the class you'll discuss the different answers they have
 3. Open a [Jitsi meeting](https://meet.jit.si/) (and make sure your dropbox is empty)
 4. Start the Jitsi recording. 
 5. Share the link to the meeting in the class channel on Slack
-6. Make sure students have muted their mic and switched on their video. When somebody has a question, they can use the chat-function or ‘raise a hand’ function. 7. To increase interactivity, students could also ask their questions by unmuting their mic. Of course only if their internet speed allows it 
+6. Make sure students have muted their mic and switched on their video. When somebody has a question, they can use the chat-function or ‘raise a hand’ function. 
+7. To increase interactivity, students could also ask their questions by unmuting their mic. Of course only if their internet speed allows it 
 Make sure all students put their real name as their account name.
 
 ## During the session
@@ -13,22 +14,31 @@ Make sure all students put their real name as their account name.
 2. Is it your first time teaching this class? Introduce yourself briefly (how did you learn programming, where do you live and work, what are your hobbies during the quarantine) 
 3. Share the planning with the class: 
 - Questions about last week's homework
+- Discuss answers on Preperation exercise
 - Questions about this week’s lecture per topic
 - Have a look at next week’s homework
 - The end
 4. As soon as you start explaining, make sure you share your screen.
 5. Ask about the homework from last week (the deadline just passed). Are there any questions?
-6. Go over all the questions that students have submitted per topic. 
-7. If you prepared an exercise, this is the time to do it :)
-8. Take a look at the homework for next week with the students. Don’t answer the questions, but you can give them a few little hints.
-9. Before closing the call; ask if there are any questions.
-10. Share the recordings in the class channel.  
+6. Discuss the preperation exercie. You can do this in multiple ways. 
+
+(A). Do the exercise together with the students. They tell you what you have to write. 
+
+(B). Ask a student to show his/her solution (screensharing) and discuss it in class.
+
+7. Go over all the questions that students have submitted per topic. 
+8. If you prepared an exercise, this is the time to do it :)
+9. Take a look at the homework for next week with the students. Don’t answer the questions, but you can give them a few little hints.
+10. Before closing the call; ask if there are any questions.
+11. Share the recordings in the class channel.  
 
 ### How to respond on questions
-As you know, the students have to hand in at least one question. The quality of those questions differ a lot. Here are a few tips on dealing with 
-Let the student explain his/her question and why they have it before starting with the answer. This allows you to get a better insight in what question (s)he has.
-If the question is not related to this week's topics or one of the topics from earlier in the course, save that question for last or solely tell that it’s a good question, but that they don’t have to know the answer for now. It can be quite intimidating for students that are struggling more with the core concepts and it is important to focus on the material of our curriculum and not mix up weeks. If one student is ahead of the rest you can help him/her after the call and optionally give some exercises. 
-It can happen that a student submitted an easy and googleable question. You’re not there to answer those question, but on the other hand you don’t want to create an atmosphere where students are afraid to ask dumb questions. In a situation like this you can ask the student how (s)he would solve it himself/herself. As a joke you can use [this](https://lmgtfy.app/) site (LetMeGoogleThatForYou). 
+As you know, the students have to hand in at least one question. The quality of those questions differ a lot. Here are a few tips on dealing with the questions:
+- Let the student explain his/her question and why they have it before starting with the answer. This allows you to get a better insight in what question (s)he has.
+- If the question is not related to this week's topics or one of the topics from earlier in the course, save that question for last or solely tell that it’s a good question, but that they don’t have to know the answer for now. It can be quite intimidating for students that are struggling more with the core concepts and it is important to focus on the material of our curriculum and not mix up weeks. If one student is ahead of the rest you can help him/her after the call and optionally give some exercises. 
+- It can happen that a student submitted an easy and googleable question. You’re not there to answer those question, but on the other hand you don’t want to create an atmosphere where students are afraid to ask dumb questions. In a situation like this you can ask the student how (s)he would solve it himself/herself. As a joke you can use [this](https://lmgtfy.app/) site (LetMeGoogleThatForYou). 
+- Let other students try to answer the questions. If you first ask if somebody had the same question and not eveyone responds with yes, there must be somebody that could help you out.  
+- Ask if the question is answered before you move to the next one and give a small summary of the lessons learned. 
 
 
 ### Creating student engagement
