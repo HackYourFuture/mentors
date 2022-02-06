@@ -18,7 +18,7 @@ In HYF we use ‘the four E’s’ as a framework to help the student understand
 
 **Example/exercise**
 - For some examples you can take a look at the homework. They already made those questions, but going through them again together is a good practise. You can ask the student what happens in the code. If you change some things, what will be different in the output? You can never use the ‘what will happen if I change this...’ question too much. 
-- Next to the homework exercises, you can find many of them on the internet. When searching for them take their prior knowledge in consideration.
+- Next to the homework exercises, you can find many of them on the internet. When searching for them take their prior knowledge into consideration.
 
 **Essence**
 - Showing the essence of the concept is important to motivate your pupil in trying to understand the subject. The easiest way of doing so is by giving examples on how you used it in the past (on your work). _You can explain the essence of the concept by giving the global intuition behind it, how/why did people think of this concept and what is the use in broad terms?_
