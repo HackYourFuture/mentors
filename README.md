@@ -4,7 +4,7 @@
 
 ![mentor](assets/mentor.jpg)
 
-Welcome to Hack Your Future. We really appreciate that you're interested in being part of our community. In this RePo we want to give you an overview of the different volunteer positions available. By volunteering you contribute to our main goal: help students gain the necessary skills to find a job as a programmer. Hack Your Future has now helped over 200 students find work as a programmer. This is only possible with the support of you: our volunteers.
+Welcome to Hack Your Future. We really appreciate that you're interested in being part of our community. In this repo we want to give you an overview of the different volunteer positions available. By volunteering you contribute to our main goal: help students gain the necessary skills to find a job as a programmer. Hack Your Future has now helped over 200 students find work as a programmer. This is only possible with the support of you: our volunteers.
 
 ## Curriculum
 ![theprogram](assets/program.png)
@@ -33,12 +33,12 @@ Next to that we have channels for every class and the main goal here is that we 
 ## What we expect from you
 ![values](assets/posters.jpg)
 
-For an overview and explanation of our core values, check out [this](https://github.com/HackYourFuture/values) RePo. 
+For an overview and explanation of our core values, check out [this](https://github.com/HackYourFuture/values) repo. 
 
 For you, the mentors, it's important to know that you're a role-model for our students. They can learn by example to:
-* stick to deadlines
+* Stick to deadlines
 * Communicate professionally and on time
-* Be pro-active 
+* Be proactive 
 
 ## Conclusion
 We hope that by reading this you have a better idea of what it means to volunteer at HackYourFuture. If you have any questions, you can always send us an email at tjebbe@hackyourfuture.net or (once you have been added to our Slack channels) send us a Slack message.
