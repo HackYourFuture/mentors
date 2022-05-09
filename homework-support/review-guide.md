@@ -2,8 +2,9 @@
 
 ## Before you start
 1. [This](https://github.com/HackYourHomework) is the github account where our students submit their homework. Per module a specific RePo is created where students will make a PR.  Please send your username to Tjebbe on Slack, then he will add you to the organization. 
-2. You get assigned 3 to 5 students at the start of the module in the slack conversation with all the mentors for that module. You are responsible for reviewing their work for the duration of the module.
-3. Please don't hesitate to contact Tjebbe or the class mentor if you are facing any issues. We are here to help you out!  
+2. [This](https://github.com/HackYourHomework/homework-solutions) is our **secret** RePo with the homeworksolutions. This makes your life as a reviewer a lot easier. If the answers for the module you're helping out with are not there, feel free to add yours! 
+3. You get assigned 3 to 5 students at the start of the module in the slack conversation with all the mentors for that module. You are responsible for reviewing their work for the duration of the module.
+4. Please don't hesitate to contact Tjebbe or the class mentor if you are facing any issues. We are here to help you out!  
 
 ## Review process
 As said before you have the freedom to decide with your students on the way of communication with them about their code. You can do video calls or place comments to the PR.
