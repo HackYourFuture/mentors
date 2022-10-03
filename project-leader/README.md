@@ -14,7 +14,7 @@ To be a project supervisor requires the following:
 - This is their first time working in a group, so expect to answer questions about git issues / branches / merging / code reviews.
 
 ## Using API's and React individual project
-In both the [[Using API's](https://github.com/HackYourFuture/UsingAPIs)] and the [React](https://github.com/HackYourFuture/React/blob/master/week4/README.md) modules, the final test is an individual project. In the [first project](https://github.com/HackYourFuture/UsingAPIs/blob/main/Week3/README.md) (Using API's), we check if the student is proficient enough in JavaScript to start learning the more advanced modules. In the [second one](https://github.com/HackYourFuture/React/blob/master/week4/README.md) (React), we want to make sure they are ready for the last module of the curriculum: the final project.
+In both the [Using API's](https://github.com/HackYourFuture/UsingAPIs) and the [React](https://github.com/HackYourFuture/React) modules, the final test is an individual project. In the [first project](https://github.com/HackYourFuture/UsingAPIs/blob/main/Week3/README.md) (Using API's), we check if the student is proficient enough in JavaScript to start learning the more advanced modules. In the [second one](https://github.com/HackYourFuture/React/blob/master/week4/README.md) (React), we want to make sure they are ready for the last module of the curriculum: the final project.
 
 Both projects have the same structure. Each student has a week to build a project on their own, that adheres to some requirements (see module repo for details).
 
