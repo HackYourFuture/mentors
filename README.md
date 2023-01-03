@@ -24,7 +24,6 @@ We need at least three teachers per module. Check the table below for an overvie
 | [Personal mentor](./coding-mentor)      | Some of our students need additional support throughout the course to be ready for their first job. This is exactly what you do as a mentor. We ask you to organize at least one, but preferably two video calls per week, of at least an hour, when assigned to a student. |4 hours. Flexible |
 | [Project leader](./project-leader)      | There are multiple short projects in the curriculum that require guidance. As project leader, you provide this guidance by acting like a Tech lead / Product owner / Scrum master in one | 7 hours, 1 week |
 | [Post Graduation Package](https://github.com/HackYourFuture/post-grad-ed/blob/master/mentoringpgp.md)        |  As a mentor, you work closely with two graduates who are preparing for their first internship. You support them in a 4 to 8 weeks program.           | 3 hours. Flexible |
-| [Fellowship](https://github.com/HackYourFuture/Fellowship) |  Like the Post Graduation Package, the Fellowship is an extracurricular project. On [this](https://www.hackyourfuture.net/fellowship/) website, you can find all the info you need.            | 3 hours. Flexible |
 
 ## Communication
 Most of our communication is done via Slack. This is the place where we ask you if you can help out with a certain module, and where you can keep in touch with both students and other teachers.
