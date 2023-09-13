@@ -11,7 +11,7 @@
 
 7. Now switch to the regular code window in VSCode by clicking on the Explorer icon in the VSCode task bar and start the actual review.
 
-   > If the student installed additional dependencies in `package.json` you will need to run `npm install` again. For the JavaScript modules this should not be necessary.
+   > If the trainee installed additional dependencies in `package.json` you will need to run `npm install` again. For the JavaScript modules this should not be necessary.
 
 8. If there are any unit tests as part of the repository, run them and review the results.
 
@@ -19,14 +19,14 @@
 
 10. Go through the code on GitHub and insert comments in the pull request. When making the first comment select **Start a Review**, instead of making single comments. Note that for each single comment GitHub sends out an email notification to all repository watchers. It will only send out a single notification for a complete review.
 
-12. Point out fragments of code that do not work, or do not meet the requirements of the assignment. Students need to follow-up on these comments before their pull request can be approved.
+12. Point out fragments of code that do not work, or do not meet the requirements of the assignment. Trainee need to follow-up on these comments before their pull request can be approved.
 
 13. Make recommendations on how things can be done better, more elegant, more efficient, etc. However don't consider these showstoppers for approving the pull request.
 
-    > Before suggesting a non-trivial coding alternative to students, I try it out by modifying the code in the current branch and running it. When I'm satisfied I copy the relevant code snippet in a comment on GitHub and discard the local changes using the VSCode **Discard Changes** option.
+    > Before suggesting a non-trivial coding alternative to trainees, I try it out by modifying the code in the current branch and running it. When I'm satisfied I copy the relevant code snippet in a comment on GitHub and discard the local changes using the VSCode **Discard Changes** option.
 
 14. When done select **Review changes** in the pull request, add an overall assessment in the comment box and either **Approve** or **Request changes**.
 
-15. Finally, I add the label `approved` when the homework meets the requirementr or `needs work` if I requested changes.
+15. Finally, I add the label `approved` when the assignment meets the requirementr or `needs work` if I requested changes.
 
-16. Maybe the most important step: after the student implemented your feedback, check if their improvements are sufficient and if so, remove `needs work` and add the label`approved`
+16. Maybe the most important step: after the trainee implemented your feedback, check if their improvements are sufficient and if so, remove `needs work` and add the label`approved`
