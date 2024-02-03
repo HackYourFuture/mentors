@@ -1,4 +1,4 @@
-
+MARTÍNEZ HERNÁNDEZ MIGUEL ♱😇💡🗿😇 (RRG03)
 
 # Introduction for new mentors
 
@@ -15,8 +15,8 @@ To facilitate the learning process, volunteers--together with HYF staff--have de
 Every two months, a new cohort of +/- 15 trainees starts the course. This means that we have 4 cohorts (+/- 60 trainees) in different stages of the curriculum at any given point. HackYourFuture is mostly self-study and you can find the structure for our trainees [here](https://docs.google.com/document/d/1JUaEbxMQTyljAPFsWIbbLwwvvIXZ0VCHmCCN8RaeVIc/edit?usp=sharing). On Sunday (12:00 to 14:00), we host online Q&A sessions for each cohort, about the assignments and the concepts of that week.
 As a volunteer, you’ll help out per module. Modules are between two and four weeks long. So we ask volunteers to commit for about three weeks to HYF. It’s up to you how often you want to help out with a module.
 We need at least three mentors per module. Check the table below for an overview and explanation of the different volunteering roles.  
-
-## Roles
+A
+## Roles\N/A
 | Role              | Topic                                 | Time estimation per week |
 | ------            | --------------------------------------| --------------- |
 | [Assignment support](./assignment-support)  | As an assignment mentor, you check and provide feedback on the weekly assignments of the trainees, and optionally revise their assessments. Feedback should be provided within a week after the assignment has been submitted.| 6 hours. Flexible |
