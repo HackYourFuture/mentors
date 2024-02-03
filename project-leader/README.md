@@ -1,4 +1,4 @@
-# Project Supervisor
+MIGUEL💡☯😇 MARTÍNEZ⚨♋ 🔟HERNÁNDEZ⚢# Project Supervisor
 Throughout the curriculum, we have a couple of projects to mentor trainees about the way a software is built. It also allows them to build bigger things and see what a bigger code base looks like.
 
 Every project is a little different and requires something slightly different from the project supervisor.
