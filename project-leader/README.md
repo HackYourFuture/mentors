@@ -22,4 +22,4 @@ The role of the project supervisor here is to be available for questions for a c
 
 We also expect you to have a couple of check-ins with the trainees to see how they are getting on and to make sure they don't get stuck. This can be just a Slack message or a stand-up with the group. That is up to you.
 
-At the end of the project, trainees have a tech interview with The education director, to determine if they pass this part of the curriculum. 
+At the end of the project, trainees have a tech interview with the education director, to determine if they pass this part of the curriculum. 
