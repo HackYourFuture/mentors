@@ -4,7 +4,7 @@
 1. [This](https://github.com/HackYourAssignment) is the github account where our trainees submit their assignments. Per module a specific RePo is created where trainees will make a PR.  Please send your username to Joséphine on Slack, so she adds you to the organization. 
 2. [This](https://github.com/HackYourAssignment/assignment-solutions) is our **secret** RePo with the assignment solutions. This makes your life as a reviewer a lot easier. If the answers to the module you're helping with are not there, feel free to add yours! 
 3. You get assigned 3 to 5 trainees at the start of the module in a slack conversation, with all the mentors for that module. You are responsible for reviewing their work for the duration of the module.
-4. Please don't hesitate to contact Joséphine or the class mentor if you are facing any issues. We are here to help you out!  
+4. Please don't hesitate to contact Joséphine if you are facing any issues. We are here to help you out!  
 
 ## Review process
 As mentionned earlier, you have the freedom to decide with your trainees of the way to communicate with them about their code. You can do video calls or place comments to the PR.
@@ -48,7 +48,7 @@ This makes it easy to see which PR is still being worked on and which one has be
 There are five points we think are essential to good feedback in HackYourFuture.
 
 ### 1. Positivity
-It can happen easily that feedback only points out the mistakes, but it’s important to give positive feedback as well. Commenting on aspects that you liked about the code is crucial to make the student more confident. We also learn from what we did well.
+It can happen easily that feedback only points out the mistakes, but it’s important to give positive feedback as well. Commenting on aspects that you liked about the code is crucial to make the trainee more confident. We also learn from what we did well.
 
 ### 2. Specific
 Try to make your feedback as specific as possible, so the trainee knows which part of the code needs improvement.
