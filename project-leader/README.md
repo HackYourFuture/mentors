@@ -18,7 +18,7 @@ In both the [Using API's](https://github.com/HackYourFuture/UsingAPIs) and the [
 
 Both projects have the same structure. Each trainee has a week to build a project on their own, that adheres to some requirements (see module repo for details).
 
-The role of the project supervisor here is to be available for questions for a couple of trainees in the class. It is important to walk the fine line of providing support without writing their project for them. 
+The role of the project supervisor here is to be available for questions for a couple of trainees in the cohort. It is important to walk the fine line of providing support without writing their project for them. 
 
 We also expect you to have a couple of check-ins with the trainees to see how they are getting on and to make sure they don't get stuck. This can be just a Slack message or a stand-up with the group. That is up to you.
 
