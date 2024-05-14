@@ -4,7 +4,7 @@
 
 ![mentor](assets/mentor.jpg)
 
-Welcome to HackYourFuture. We really appreciate your interest in being part of our community. In this repo, we give you an overview of the different volunteering positions available. By volunteering, you contribute to our main goal: help trainees gain the necessary skills to find a job as a programmer. HackYourFuture has now helped over 200 trainees find work as a programmer. This is only possible with the support of you: our volunteers.
+Welcome to HackYourFuture! We really appreciate your interest in being part of our community. In this repo, you'll find an overview of the different volunteering positions available. By volunteering, you contribute to our main goal: help trainees gain the necessary skills to find a job as a programmer. HackYourFuture has now helped over 300 trainees find work as a programmer. This is only possible with the support of our volunteers <3
 
 ## Curriculum
 ![theprogram](assets/program.png)
