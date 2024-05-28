@@ -24,7 +24,7 @@ We need at least three mentors per module. Check the table below for an overview
 | [Personal mentor](./coding-mentor)      | Some of our trainees need additional support throughout the program to be ready for their first job. This is exactly what you do as a personal mentor. We ask you to organize at least one, but preferably two video calls per week, of at least an hour, when assigned to a trainee. |4 hours. Flexible |
 | [Project leader](./project-leader)      | There are multiple short projects in the curriculum that require guidance. As project leader, you provide this guidance by acting like a Tech lead / Product owner / Scrum master in one | 7 hours, 1 week |
 | [Post Graduation Package](https://github.com/HackYourFuture/post-grad-ed/blob/master/mentoringpgp.md)        |  As a mentor, you work closely with two graduates who are preparing for their first internship. You support them in a 4 to 8 weeks program.           | 3 hours. Flexible |
-
+| [English Mentoring](https://github.com/HackYourFuture/post-grad-ed/blob/master/mentoringpgp.md)        |  As an English Mentor you help the trainees improve their english languages skills so they are more ready to work in a professional envirnment. You support them for aprox 1 hour a week for a period of 12 weeks| 1 hour. Flexible |
 ## Communication
 Most of our communication is done via Slack. This is the place where we ask you if you can help out with a certain module, and where you can keep in touch with both trainees and other mentors.
 Next to that, we have channels for each cohort and the main goal here is to support trainees with questions or their assignment during the week. If you are not in Slack yet, ask Joséphine :information_desk_person:
