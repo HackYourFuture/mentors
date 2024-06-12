@@ -12,4 +12,6 @@ Some trainees need additional language support at the end of the course to impro
 ## Practical information
 We have an optional bi-weekly meeting with fellow English mentors and the HackYourFuture team to gather feedback and ask questions. The number of weeks for which the trainee needs English support varies per trainee, and additionally how quickly they find an internship, but generally they are back on track after a month or so, with a maximum of 12 weeks’ support. 
 
-[Here](https://drive.google.com/file/d/1Ne2qZnZo7bE7su-cM1oIjT3HreygoPeB/view?usp=drive_link) you can see the roadmap for English mentoring.
+Here you can see the roadmap for English mentoring:
+
+![English mentor roadman](../assets/English-Mentors-roadmap.png)
