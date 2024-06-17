@@ -1,4 +1,4 @@
-# Introduction for new english mentors
+# Introduction for new English mentors
 
 Welcome to HackYourFuture! We really appreciate your interest in being part of our community. By volunteering, you contribute to our main goal: help trainees gain the necessary skills to find a job as a programmer. HackYourFuture has now helped over 300 trainees find work as a programmer. This is only possible with the support of our volunteers <3
 
