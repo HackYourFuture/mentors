@@ -4,9 +4,9 @@
 
 ![mentor](assets/mentor.jpg)
 
-Welcome to HackYourFuture! We really appreciate your interest in being part of our community. In this repo, you'll find an overview of the different volunteering positions available. By volunteering, you contribute to our main goal: help trainees gain the necessary skills to find a job as a programmer. HackYourFuture has now helped over 300 trainees find work as a programmer. This is only possible with the support of our volunteers <3
+Welcome to HackYourFuture! We really appreciate your interest in being part of our community. In this repo, you'll find an overview of the different volunteering positions available. By volunteering, you contribute to our main goal: help trainees gain the necessary skills to find a job as programmers. HackYourFuture has now helped over 300 trainees find work in tech. This is only possible with the support of our volunteers <3
 
-In order to reach this goal, we focus on two main areas: the coding skills and social job readiness. For the coding skills, we cover the basic of Javascript so that the graduates can apply to positions in frontend, backend and fullstack. Aside from teaching how to use the language, we also train participants in writing clean code and working in teams on a code. Regarding the social skills, we pay attention to communication skills, teamwork, English but also give training in interview preparation and CV building workshops.
+In order to reach this goal, we focus on two main areas: the coding skills and social job readiness. For the coding skills, we cover the basics of Javascript so that graduates can apply to positions in frontend, backend and fullstack. Aside from teaching how to use the language, we also train participants in writing clean code and working in teams on a code. Regarding social skills, we pay attention to communication, teamwork, English but also give training in interview preparation and CV building workshops.
 
 ## Tech mentors
 
