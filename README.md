@@ -30,23 +30,31 @@ As a volunteer, you either help out per module, or as 1-1 coach with a single tr
 |[English Mentoring](https://github.com/HackYourFuture/mentors/tree/main/english-mentor)|  As an English Mentor you help the trainees improve their english languages skills so they are more ready to work in a professional envirnment. You support them for aprox 1 hour a week for a period of 12 weeks| 1 hour. Flexible |
 
 ## Social skills mentors
+It takes a lot more than just coding skills to become a web developer. And as the market is becoming more and more competitive, we notice that soft skills are become more and more important. For this reason, HackYourFuture also tries to prepare trainees to the work culture of the tech world in the Netherlands. Throughout the curriculum, we have several group projects to accustom trainees to work in teams. We encourage professional communication, proactivity, the ability to work independently but also to reach out for help, good time-management, commitment and punctuality. We address these topics during several Career Trainings, spread across the curriculum. Some of this skills need more accute attention or training, which is when we reach out for the support of volunteers.
+
+### Roles
+| Role              | Topic                                 | Weekly time estimation |
+| ------            | --------------------------------------| --------------- |
+| [Social interview coach](./interviewpreparation))  | As an HR coach, you follow one or more trainees that are either reaching the end of the program or graduated, and help them prepare for the job application process. During these 1-1 sessions, you help them prepare their profile, provide feedback on their CV, conduct mock-interviews to assess their readiness and give them feedback, and guide them on how to look for positions, prepare for an interview and have good interview questions. | 30min - 2 hour. Flexible |
+| [Scrum master](./SCRUM_MASTER.md)   | The last module of the curriculum consists of a [group project](https://github.com/HackYourFuture/Project), in which trainees build their first full web application, which will be the main piece of their porfolio. As scrum master, you hold one or two session with each group (2-3 per cohort), to set them ready to work with agile & scrum during the project. These methods are often new to them, so your role is mostly to introduce them so they can familiarise themselves with a tech environment.| 2-4 hours for one module. Flexible. |
+|[English coach](https://github.com/HackYourFuture/mentors/tree/main/english-mentor)|  As an English mentor you help the trainees improve their language skills so they are more ready to work in a professional envirnment. Although everyone in HYF is able to follow and participate in an English speaking class, some trainees lack the fluency to make a good impression during a job or tech interview, to have the confidence to engage in a discussion or to be fully part of a project group. You support them weekly by doing conversation for a period of 12 weeks (flexible). You can give them homework to make the sessions more productive. No teaching experience or Engish native language are required. | 30min - 1 hour. Flexible |
 
 ## Communication
-Most of our communication is done via Slack. This is the place where we ask you if you can help out with a certain module, and where you can keep in touch with both trainees and other mentors.
-Next to that, we have channels for each cohort and the main goal here is to support trainees with questions or their assignment during the week. If you are not in Slack yet, ask Joséphine :information_desk_person:
+Most of our communication is done via Slack. This is the place where we ask you if you can help out with a certain module, and where you can keep in touch with both trainees and other mentors. There, we have channels for each cohort and each different main volunteering domains (English, tech and HR). If you are not in Slack yet, ask Joséphine :information_desk_person:
 
 ## What we expect from you
 ![values](assets/posters.jpg)
 
 For an overview and explanation of our core values, check out [this](https://github.com/HackYourFuture/values) repo. 
 
-For you, the mentors, it's important to know that you're a role-model for our trainees. They can learn by example to:
+As mentors, it's important to know that you're a role-model for our trainees. They can learn by example to:
 * Stick to deadlines
 * Communicate professionally and on time
 * Be proactive
 
+As part of our mission to diversify the tech world, we also strive to make HYF less male-dominated. More women mentors are a great source of inspiration for trainees, they are role model that help fight inpostor syndrome, so we encourage you to apply to visible position, such as Q&A lead :)
+
 # Conclusion
 We hope that by reading this, you have a better idea of what it means to volunteer at HackYourFuture. If you have any question, you can always send us an email at josephine@hackyourfuture.net or (once you have been added to our Slack channels) send us a Slack message.
 
-Looking forward to working with you!
-
+Looking forward to working together!
